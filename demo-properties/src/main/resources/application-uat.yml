@@ -1,0 +1,8 @@
+application:
+  name: uat环境 @artifactId@
+  version: uat环境 @version@
+developer:
+  name: uat环境 wxt
+  website: uat环境 http://xkcoding.com
+  qq: uat环境 237497819
+  phone-number: uat环境 17326075631
